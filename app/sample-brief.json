@@ -1,0 +1,40 @@
+{
+  "product": "TerraTrail Travel Planner",
+  "tagline": "Plan lighter. Travel better.",
+  "keyBenefits": [
+    "personalised trip ideas",
+    "saved itineraries",
+    "map-based planning"
+  ],
+  "targetAudience": "solo travellers and small groups planning flexible trips",
+  "tone": "calm, inspiring, practical",
+  "cta": "Start planning your next trip",
+  "allowedClaims": [
+    "personalised trip ideas",
+    "saved itineraries",
+    "map-based planning"
+  ],
+  "forbiddenClaims": [
+    "guaranteed cheapest flights",
+    "real-time flight prices",
+    "visa advice",
+    "book every trip instantly",
+    "best travel app"
+  ],
+  "language": "English",
+  "visualAssets": [
+    {
+      "type": "video",
+      "src": "https://shotstack-assets.s3.amazonaws.com/footage/beach-overhead.mp4"
+    },
+    {
+      "type": "video",
+      "src": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/city-timelapse.mp4"
+    },
+    {
+      "type": "image",
+      "src": "https://shotstack-assets.s3.amazonaws.com/images/woods1.jpg"
+    }
+  ],
+  "musicUrl": "https://s3-ap-southeast-2.amazonaws.com/shotstack-assets/music/spirit.mp3"
+}
