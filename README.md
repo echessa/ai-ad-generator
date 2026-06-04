@@ -2,12 +2,6 @@
 
 A small Node.js pipeline that turns a product brief into a rendered video ad using OpenAI, ElevenLabs, and Shotstack.
 
-## Demo
-
-Generated demo video:
-
-https://res.cloudinary.com/djmbhqman/video/upload/q_auto/f_auto/v1780528003/shotstack-ad_pubq6n.mp4
-
 ## What it does
 
 The script:
